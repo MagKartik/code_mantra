@@ -1,0 +1,24 @@
+{
+  "name": "mantra",
+  "productName": "Mantra",
+  "version": "1.0.0",
+  "description": "They thought they could stop us. LOLOLOL",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "keywords": [],
+  "author": "0xPiyush",
+  "devDependencies": {
+    "electron": "15.1.2"
+  },
+  "dependencies": {
+    "electron-log": "^4.4.1",
+    "electron-store": "^8.0.1",
+    "electron-updater": "^4.3.9",
+    "fkill": "^7.2.1",
+    "is-reachable": "^5.1.0",
+    "ps-list": "^7.2.0",
+    "systeminformation": "^5.9.8"
+  }
+}
